@@ -1,8 +1,6 @@
 [![Build Status](https://img.shields.io/badge/build%20-passing-brightgreen.svg)](https://github.com/jcju/opencv_bazel_win)
 
-
-# Build OpenCV of C++ with Bazel on Windows
-NEW TITLE
+### NEW TiTLE
 
 ## Dependencies
 
